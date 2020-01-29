@@ -1,1 +1,1 @@
-# miniresponsive-portfolio
+# mini-responsive-portfolio
